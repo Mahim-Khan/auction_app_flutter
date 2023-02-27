@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519518145327",
+    "project_id": "auction-app-ce591",
+    "storage_bucket": "auction-app-ce591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519518145327:android:86e0e074355aaba8536fda",
+        "android_client_info": {
+          "package_name": "com.example.auction_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519518145327-5oat9qm2l8duhcdrumao98poasp8lkrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9u-J3Mo-9UUQzBqK56A147C4JpT8S4NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519518145327-5oat9qm2l8duhcdrumao98poasp8lkrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
